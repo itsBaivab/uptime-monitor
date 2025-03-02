@@ -5,9 +5,9 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: EduCare Intern Technologies
     url: https://educareintertechnology-h9agd4e7gcbka8aa.centralus-01.azurewebsites.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    # port: 80
+    # check: "tcp-ping"
+    # ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
