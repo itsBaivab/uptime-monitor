@@ -11,10 +11,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 261,
-    "timeDay": 261,
+    "timeDay": 259,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "DevDotCom",
+    "url": "https://www.devdotcom.in",
+    "icon": "https://icons.duckduckgo.com/ip3/www.devdotcom.in.ico",
+    "slug": "dev-dot-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 92,
+    "timeDay": 92,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {}
   }
 ]
