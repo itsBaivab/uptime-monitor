@@ -6,6 +6,8 @@ sites:
   - name: EduCare Intern Technologies
     url: https://educareintertechnology-h9agd4e7gcbka8aa.centralus-01.azurewebsites.net
     port: 80
+    name: DevDotCom
+    url: https://devdotcom.in
     # check: "tcp-ping"
     # ipv6: true
 
