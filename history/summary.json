@@ -4,18 +4,20 @@
     "url": "https://educareintertechnology-h9agd4e7gcbka8aa.centralus-01.azurewebsites.net",
     "icon": "https://icons.duckduckgo.com/ip3/educareintertechnology-h9agd4e7gcbka8aa.centralus-01.azurewebsites.net.ico",
     "slug": "edu-care-intern-technologies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 262,
-    "timeWeek": 269,
-    "timeMonth": 258,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "time": 254,
+    "timeDay": 220,
+    "timeWeek": 257,
+    "timeMonth": 254,
+    "timeYear": 254,
+    "dailyMinutesDown": {
+      "2025-03-11": 0
+    }
   },
   {
     "name": "DevDotCom",
