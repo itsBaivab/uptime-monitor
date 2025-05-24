@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/educareintertechnology-h9agd4e7gcbka8aa.centralus-01.azurewebsites.net.ico",
     "slug": "edu-care-intern-technologies",
     "status": "down",
-    "uptime": "51.46%",
+    "uptime": "51.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.76%",
-    "uptimeYear": "51.46%",
+    "uptimeMonth": "42.06%",
+    "uptimeYear": "51.33%",
     "time": 585,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 275,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-05-24": 52,
+      "2025-05-24": 357,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
@@ -67,7 +67,7 @@
     "url": "https://www.devdotcom.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.devdotcom.in.ico",
     "slug": "dev-dot-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -79,6 +79,7 @@
     "timeMonth": 187,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2025-05-24": 0,
       "2025-04-03": 68
     }
   }
